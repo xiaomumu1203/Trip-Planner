@@ -148,15 +148,6 @@ npm run dev
 | OPENAI_MODEL | 是 | 模型名称 |
 | UNSPLASH_ACCESS_KEY | 否 | Unsplash API Key（不配则无景点配图） |
 
-## 开发
-
-```bash
-# 后端热重载（默认已开启 reload=True）
-cd backend && python run.py
-
-# 前端开发模式
-cd frontend && npm run dev
-```
 
 ## License
 
