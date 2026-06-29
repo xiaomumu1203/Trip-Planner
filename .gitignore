@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+
+# 虚拟环境
+venv/
+.env
+.venv/
+
+# 前端
+node_modules/
+dist-ssr/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
