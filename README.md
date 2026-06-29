@@ -65,7 +65,7 @@ frontend/
 ### 1. 克隆项目
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/xiaomumu1203/Trip-Planner.git
 cd trip-planner
 ```
 
